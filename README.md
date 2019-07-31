@@ -49,5 +49,5 @@ classifier.ner_tag(input_text)
 
 **Output**
 ```
-"<Person>Tim</Person> went to <Organization>JP Morgan</Organization> office in <Location>New York</Location>."
+<Person>Tim</Person> went to <Organization>JP Morgan</Organization> office in <Location>New York</Location>.
 ```
